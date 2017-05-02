@@ -1,2 +1,3 @@
 # a commented line to show that it works
-# make my local changes
+# adding a second commented line to make code better
+# combining both my local changes and master changes together
